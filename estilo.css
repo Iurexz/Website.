@@ -1,0 +1,40 @@
+body{
+    background:linear-gradient(to top,pink, white) ;
+   width: 50%;
+   display: block;
+   margin:auto
+}
+h1{
+    display: block;
+    font-family: Cambria;
+    font-size: 60px;
+    color: rgb(255, 0, 119);
+    text-align: center;
+
+    
+}
+p{ 
+    margin: auto;
+    display: block;
+   
+}
+hr{
+    height: 20px;
+    background: pink;
+}
+
+marquee{
+    color: aliceblue;
+    font-size: 60px;
+    font-family: Cambria;
+    
+    
+}
+video{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+
+
