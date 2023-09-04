@@ -17,17 +17,30 @@ p{
 .lol{
     text-align: center;
     color: aliceblue;
+    margin: auto;
+    
+}
+video{
+    border-style: groove;
+    border-width: 1px;
+    
 }
 
-.ing{
-    width: 100%;
-    height: 100%;
+img{
     
+    border-color: aliceblue;
+    width: px;
+    height: 300px;
+    margin: 1%;
+    border-radius: 1%;
+    border-style: groove;
+}
+.imgs{
+    text-align: center;
     
 }
-    
-.img2{
-    width: 100%;
-    height: 100%;
-   
+hr{
+    width: 70%;
+    height: 1px;
+    border-color: rgb(255, 0, 21) ;
 }
